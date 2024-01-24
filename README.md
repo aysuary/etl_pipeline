@@ -2,7 +2,7 @@
 by Aysu Aray
 
 ### Introduction
-This repository shows each step to build an ETL pipeline 
+This repository guides users through each step of building an ETL pipeline. 
 ETL is a process that extracts, transforms, and loads data from multiple sources into a data warehouse or other unified data repository.
 
 This project has 3 main steps:
@@ -13,6 +13,8 @@ This project has 3 main steps:
   `transform.py`
 3)  loading transformed data to a s3 bucket
    `load.py`
+
+![ETL pipeline](screenshot.png)
 
 ### How to run?
 To run the code main.py successfully follow the steps below:
