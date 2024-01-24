@@ -10,8 +10,10 @@ This project has 3 main steps:
 
 **1)** Extracting data from Amazon Redshift (includes connection codes to Redshift)
   `extract.py`
+
 **2)** Transformation of the data with identifying and removing duplicates
   `transform.py`
+
 **3)**  loading transformed data to a s3 bucket
    `load.py`
 
