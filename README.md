@@ -21,8 +21,10 @@ This project has 3 main steps:
 
 ### How to run?
 To run the code main.py successfully follow the steps below:
+
 **1)** Be sure to have Python3+ 
-**2)** Clone the repository, and go to the week19 folder
+
+**2)** Clone the repository, and go to the etl_pipeline folder
 ````
 git clone https://github.com/aysuary/etl_pipeline.git
 ````
@@ -31,7 +33,7 @@ git clone https://github.com/aysuary/etl_pipeline.git
 ```
 pip3 install -r requirements.txt
 ```
-**4)** Copy the variable from the `.env.copy` file to `.env` and fill out the environment variables.
+**4)** Copy the `.env.copy` file to `.env` and fill out the environment variables.
 
 **5)** Run the `main.py` script
  
