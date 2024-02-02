@@ -20,7 +20,7 @@ This project has 3 main steps:
 ![ETL pipeline](screenshot.png)
 
 ### How to run?
-To run the code main.py successfully follow the steps below:
+To run the code `main.py` successfully follow the steps below:
 
 **1)** Be sure to have Python3+ 
 
@@ -48,5 +48,3 @@ python main.py
 ````
 
 
-
-# demo
